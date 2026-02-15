@@ -1,8 +1,6 @@
 <div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=xZ1ba-RLrjo" target="_blank">
-      <img src="public/readme/hero.png" alt="Project Banner">
-    </a>
+
+   
   <br />
   <div>
     <img alt="Static Badge" src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white">
